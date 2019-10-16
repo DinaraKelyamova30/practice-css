@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    background-color: #ffe6cc;
+}
+
+footer{
+    background-color: gray;
+    padding: 0 0 40px 0;
+}
